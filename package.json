@@ -1,0 +1,14 @@
+{
+  "name": "com.mikle305.webgl-utils",
+  "version": "1.0.0",
+  "displayName": "WebGL Utils",
+  "description": "",
+  "type": "module",
+  "unity": "2020.3",
+  "license": "MIT",
+  "author": {
+    "name": "Mihail Babichev",
+    "email": "",
+    "url": "https://github.com/mikle305"
+  }
+}
